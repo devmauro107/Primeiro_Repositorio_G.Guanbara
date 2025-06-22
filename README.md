@@ -1,2 +1,4 @@
-# Primeiro_Repositorio_G.Guanbara
+# Primeiro Repositorio de G.Guanbara
 Primeiro repositorio da aula de Git/GitHub do Gustavo Guanabara
+
+Meu Primeiro repositorio criado na aula de Git / GitHub do Gustavo Guanbara
